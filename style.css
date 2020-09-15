@@ -1,0 +1,15 @@
+main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.main-info {
+    display: inline-block;
+}
